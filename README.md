@@ -1,2 +1,3 @@
-# MarkDownSyntax
-In this will explain MarkDownSyntax.
+# Heading 1
+## Heading 2
+### Heading 3
